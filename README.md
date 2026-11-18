@@ -15,7 +15,7 @@ Building **[canon-forge](https://github.com/FangLingxiao/canon-forge)** — the 
 | [canon-forge](https://github.com/FangLingxiao/canon-forge) | Canon schema + anachronism constraint checker for long-horizon generative media (active, 2026–) |
 | [AutoSFX](https://github.com/FangLingxiao/AutoSFX) | CLIP-based audio–visual alignment for automated, film-grade sound-effect matching (MSc, 2024) |
 | [Face-Reconstruction-based-on-Depth-Estimation](https://github.com/FangLingxiao/Face-Reconstruction-based-on-Depth-Estimation) | Single-image 3D face reconstruction via diffusion-based monocular depth estimation (MSc, 2024) |
-| [MusicClassifier-24-FangLingxiao](https://github.com/FangLingxiao/MusicClassifier-24-FangLingxiao) | Music genre & emotion classification on Mel spectrograms with ResNet/TinyVGG (MSc, 2024) |
+| [MusicClassifier](https://github.com/FangLingxiao/MusicClassifier) | Music genre & emotion classification on Mel spectrograms with ResNet/TinyVGG (MSc, 2024) |
 
 ## Background
 
